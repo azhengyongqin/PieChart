@@ -1,3 +1,3 @@
 ###效果图:###
 
-![饼图.gif](http://upload-images.jianshu.io/upload_images/2909848-bcdcda174cf43735.gif?imageMogr2/auto-orient/strip)
+![饼图1.gif](http://upload-images.jianshu.io/upload_images/2909848-43c4cfbd789e6a88.gif?imageMogr2/auto-orient/strip)
